@@ -1,2 +1,3 @@
 # AI
-Collection of various AI projects
+
+Virtual self-driving car.
